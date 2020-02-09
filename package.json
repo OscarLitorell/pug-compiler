@@ -1,0 +1,27 @@
+{
+  "name": "pug-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "minimatch": "^3.0.4",
+    "pug": "^2.0.4"
+  },
+  "bin": {
+    "pug-compiler": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarLitorell/pug-compiler.git"
+  },
+  "author": "Oscar Litorell",
+  "bugs": {
+    "url": "https://github.com/OscarLitorell/pug-compiler/issues"
+  },
+  "homepage": "https://github.com/OscarLitorell/pug-compiler#readme"
+}

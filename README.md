@@ -86,7 +86,7 @@ project
 └──html-files
    └──index.html
 ```
-#### html/files/index.html
+#### html-files/index.html
 ```html
 <!DOCTYPE html>
 <html lang="en">

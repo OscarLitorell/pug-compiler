@@ -1,6 +1,6 @@
 # pug-compiler
 
-pug-compiler is used to simplify the creation of static web pages. It compiles website written in pug to html, with all the features of pug such as templates and mixins.
+pug-compiler is used to simplify the creation of static web pages. It compiles websites written in pug to html, with all the features of pug such as templates and mixins.
 
 ## Installation
 To install pug-compiler globally, enter `npm install -g` in the terminal from the pug-compiler directory.

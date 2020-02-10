@@ -69,7 +69,7 @@ function main() {
 
     Object.keys(htmlFiles).forEach(file => {
         let dir = path.dirname(file)
-        if (!fs.existsSync(dir)) fs.mkdirSync(dir)
+        if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true })
         fs.writeFileSync(file, htmlFiles[file])
     })
 }

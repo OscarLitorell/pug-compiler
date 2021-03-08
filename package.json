@@ -6,7 +6,7 @@
   "dependencies": {
     "glob": "^7.1.6",
     "minimatch": "^3.0.4",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   },
   "bin": {
     "pug-compiler": "./index.js"

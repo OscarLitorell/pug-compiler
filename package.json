@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "glob": "^7.1.6",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "pug": "^3.0.1"
   },
   "bin": {
